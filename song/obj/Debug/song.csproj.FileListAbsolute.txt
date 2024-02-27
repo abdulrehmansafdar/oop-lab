@@ -1,0 +1,8 @@
+G:\Ar\song\bin\Debug\song.exe.config
+G:\Ar\song\bin\Debug\song.exe
+G:\Ar\song\bin\Debug\song.pdb
+G:\Ar\song\obj\Debug\song.csproj.AssemblyReference.cache
+G:\Ar\song\obj\Debug\song.csproj.SuggestedBindingRedirects.cache
+G:\Ar\song\obj\Debug\song.csproj.CoreCompileInputs.cache
+G:\Ar\song\obj\Debug\song.exe
+G:\Ar\song\obj\Debug\song.pdb

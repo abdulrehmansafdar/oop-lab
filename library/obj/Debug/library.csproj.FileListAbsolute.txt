@@ -1,0 +1,8 @@
+G:\Ar\library\bin\Debug\library.exe.config
+G:\Ar\library\bin\Debug\library.exe
+G:\Ar\library\bin\Debug\library.pdb
+G:\Ar\library\obj\Debug\library.csproj.AssemblyReference.cache
+G:\Ar\library\obj\Debug\library.csproj.SuggestedBindingRedirects.cache
+G:\Ar\library\obj\Debug\library.csproj.CoreCompileInputs.cache
+G:\Ar\library\obj\Debug\library.exe
+G:\Ar\library\obj\Debug\library.pdb
